@@ -1,7 +1,7 @@
 # RNAseq_Geneviewer
 HTML file download for bulk RNAseq of GMP subsets from Kwok et al. (2020), Immunity. HTML file links to a Plotly interactive website showing boxplots of queried gene. 
 
-* Example boxplot generated from gene viewer
+Example boxplot generated from gene viewer
 ![Image of example plot](https://github.com/Neutrophil-Ontogeny/RNAseq_Geneviewer/blob/master/SamplePlot_RNAseqGeneviewer.png)
 
 
